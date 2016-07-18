@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Badapatra</string>
+    <string name="action_settings">Settings</string>
+    <string name="toolbar">नागरिक वडापत्र एप्प</string>
+    <string name="municipality">नगरपालिका</string>
+    <string name="ddevelopment">जिल्ला विकास</string>
+    <string name="dcourt">अदालत</string>
+    <string name="dpolice"> प्रहरी</string>
+    <string name="malpot">मालपोत</string>
+    <string name="bhumisudhar">भूमिसुधार</string>
+    <string name="naapi">नापी</string>
+    <string name="deducation">शिक्षा</string>
+    <string name="dhealth">स्वास्थ्य</string>
+</resources>
